@@ -39,4 +39,3 @@ function createPieChart($width,$height,$percentage,$innerWidth,$innerHeight,$bgC
 
 //DEMO
 //createPieChart(250,250,0.4,200,200,1,1);
-?>
