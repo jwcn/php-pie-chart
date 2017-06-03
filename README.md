@@ -6,13 +6,13 @@
 使用起来非常简单
 
 /**
- * @param $width        画布宽度
- * @param $height       画布高度
- * @param $percentage   所占百分比，以小数计算
- * @param $innerWidth   内圆宽度
- * @param $innerHeight  内圆高度
- * @param $bgColor      背景颜色选择（可增加扩展）
- * @param $checkColor   标识颜色选择（可增加扩展）
+ * @param $width       ** 画布宽度
+ * @param $height      ** 画布高度
+ * @param $percentage  ** 所占百分比，以小数计算
+ * @param $innerWidth  ** 内圆宽度
+ * @param $innerHeight ** 内圆高度
+ * @param $bgColor     ** 背景颜色选择（可增加扩展）
+ * @param $checkColor  ** 标识颜色选择（可增加扩展）
  * createPieChart($width,$height,$percentage,$innerWidth,$innerHeight,$bgColor,$checkColor)
  */
   
